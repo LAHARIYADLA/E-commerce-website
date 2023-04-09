@@ -49,5 +49,5 @@ It is a fully functional e-commerce website where users can browse products, add
 Contributions are welcome. If you find any bugs or issues, please create a new issue on this repository or submit a pull request.
 
 # WEBSITE IMAGES
-![Example Image](readme_images/screenshot.png)
+![Example Image](readme_images/screenshot(275).png)
 
