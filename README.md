@@ -30,7 +30,7 @@ It is a fully functional e-commerce website where users can browse products, add
 # Installation
 - Clone this repository to your local machine.
 - Copy the repository to the htdocs folder in XAMPP directory.
-- Import the database.sql file into your MySQL database.
+- Import the acme23.sql file into your MySQL database.
 - Update the database configuration in includes/config.php file.
 - Start the Apache and MySQL servers in XAMPP control panel.
 # Usage
