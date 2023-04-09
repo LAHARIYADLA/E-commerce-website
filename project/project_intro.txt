@@ -1,0 +1,87 @@
+ we supposed develop small scale E commerce project as acmegrade intern 
+ .........................................
+ how to uplaod a product 
+ how to  add to cart product
+ how to view product
+ add a edit option to product
+ how to add review system to product 
+ // we will see later :catagorize the products avalaible 
+..........................................
+
+ROLES AND RESPOSIBILITIES
+
+three roles
+1.admin :resposibilities
+        -Maintaining the platform
+        -Manage the Vendors
+        -Manage the Client
+        -Handle Disputes
+example admin for flipkart is flipkart and flipkart employess managing the entire website ,identifying bugs fixing ,improving the website based on users website.
+THERE WILL BE ONLY ONE ADMIN .
+2.Vendor
+    -Registration & Login
+    -Upload the Products
+    -Manage the Products
+    -Manage Orders
+    -File Complaint  
+ there will be multiple vendors who are going sell their products in our E commerce website 
+3.Client
+    -Registration & Login
+    -View Products
+    -Manage Cart
+    -Place Order
+    -File Complaint
+    -Rate Product
+    -Compare the Products
+
+
+all above are expected things for develeper but we do this at MVP LEVEL that discussed below
+-----------------------------------------
+Modules
+
+
+
+
+
+
+
+
+------------------------------------------
+M V P 
+Definition: Minimum Viable Product or MVP is a development technique in which a new product is introduced in the market with basic features, but enough to get the attention of the consumers. The final product is released in the market only after getting sufficient feedback from the product's initial users.
+..
+here we are not going to develop entire fullpledged e commerce webpage 
+here we think that our products here in our webpage are MVP
+.. we do like beta version 
+functionality at minimum level
+initial stage of development
+----------------------------------------------
+MVP LEVEL development
+
+Admin    
+    -Maintaining the platform  
+        -HOSTING
+
+Vendor
+    -Registration & Login    
+    -Manage the Products
+        -Add
+        -View
+        -Edit - (Task  find in google or in other projects 
+        -Delete
+    -Manage Orders
+        -View
+        -Edit         
+
+Client
+    -Registration & Login
+    -View Products
+        -View
+    -Manage Cart
+        -Add
+        -View
+        -Delete
+    -Place Order    
+        -Add      
+
+ BOOTSTRAP is nothing but set of CSS already written to use the css we just need to give the proper class names to required html according to required styling
