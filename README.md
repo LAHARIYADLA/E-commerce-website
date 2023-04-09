@@ -34,7 +34,7 @@ It is a fully functional e-commerce website where users can browse products, add
 - Update the database configuration in includes/config.php file.
 - Start the Apache and MySQL servers in XAMPP control panel.
 # Usage
-- Open the website in your browser by going to <http://localhost/ecommerce> URL.
+- Open the website in your browser by going to <http://localhost/E-commerce-website/project> URL.
 - Register a new user account or login with an existing one.
    - login credentials for existing client/customer:
      - username=c1 
