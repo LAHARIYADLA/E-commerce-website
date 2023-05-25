@@ -22,6 +22,7 @@ It is a fully functional e-commerce website where users can browse products, add
    - HTML
    - CSS
    - PHP
+   - JavaScript
    - MySQL
    - XAMPP
 # Requirements
