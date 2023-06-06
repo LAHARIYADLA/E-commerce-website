@@ -24,7 +24,8 @@ It is a fully functional e-commerce website where users can browse products, add
    - PHP
    - JavaScript
    - MySQL
-   - XAMPP
+   - XAMP
+   - webhosting
 # Requirements
 - XAMPP or any other similar web server software
 - PHP version 7 or higher
@@ -34,11 +35,6 @@ It is a fully functional e-commerce website where users can browse products, add
 - Import the acme23.sql file into your MySQL database.
 - Update the database configuration in includes/config.php file.
 - Start the Apache and MySQL servers in XAMPP control panel.
-# working 
-
-
-https://user-images.githubusercontent.com/84332506/230785694-96844e9f-9863-46cd-9810-98b339727243.mp4
-
 
 # Usage
 
@@ -52,6 +48,12 @@ https://user-images.githubusercontent.com/84332506/230785694-96844e9f-9863-46cd-
      - password=v1
 - Browse the products and add them to your cart.
 - Proceed to checkout to complete the order .
+# working 
+
+
+https://user-images.githubusercontent.com/84332506/230785694-96844e9f-9863-46cd-9810-98b339727243.mp4
+
+
 
 # Contributing
 Contributions are welcome. If you find any bugs or issues, please create a new issue on this repository or submit a pull request.
