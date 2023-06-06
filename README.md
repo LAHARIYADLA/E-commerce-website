@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/84332506/230785694-96844e9f-9863-46cd-
 
 # Usage
 -after running Apache and MySQL servers in XAMPP control panel.
-- Open the website in your browser by going to <http://localhost/E-commerce-website/project> URL.
+- Open the website in your browser by going to http://localhost/E-commerce-website/project in browser.
 - Register a new user account or login with an existing one.
    - login credentials for existing client/customer:
      - username=c1 
