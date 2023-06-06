@@ -41,8 +41,8 @@ https://user-images.githubusercontent.com/84332506/230785694-96844e9f-9863-46cd-
 
 
 # Usage
--after running Apache and MySQL servers in XAMPP control panel.
-- Open the website in your browser by going to http://localhost/E-commerce-website/project in browser.
+
+- Open the website in your browser by going to <https://miniprojectjan2023.000webhostapp.com/index.html> URL  in browser.
 - Register a new user account or login with an existing one.
    - login credentials for existing client/customer:
      - username=c1 
@@ -55,6 +55,7 @@ https://user-images.githubusercontent.com/84332506/230785694-96844e9f-9863-46cd-
 
 # Contributing
 Contributions are welcome. If you find any bugs or issues, please create a new issue on this repository or submit a pull request.
+The website is hosted via 000webhost.
 
 # WEBSITE IMAGES
 
