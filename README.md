@@ -38,7 +38,7 @@ It is a fully functional e-commerce website where users can browse products, add
 
 # Usage
 
-- Open the website in your browser by going to <https://miniprojectjan2023.000webhostapp.com/index.html> URL  in browser.
+- Open the website in your browser by going to  URL  in browser.
 - Register a new user account or login with an existing one.
    - login credentials for existing client/customer:
      - username=c1 
