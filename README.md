@@ -4,7 +4,8 @@
 This is an E-commerce website project created using HTML, CSS, PHP, MySQL and XAMPP. 
 It is a fully functional e-commerce website where users can browse products, add them to their cart ,order their products,cancel their orders and checkout to purchase.
 
-
+# OPEN THE WEBSITE LINK THE ICOGNITO MODE OF BROWSER 
+ -https://miniprojectjan2023.000webhostapp.com/index.html
  # Features
 - User registration and login for vendor side 
 - User registration and login for client side 
