@@ -2,7 +2,7 @@
 # E-Commerce Website <br>
 
 This is an E-commerce website project created using HTML, CSS, PHP, MySQL and XAMPP. 
-It is a fully functional e-commerce website where users can browse products, add them to their cart ,order their products,cancel their orders and checkout to purchase.
+It is a fully functional dynamic  website where users can browse products, add them to their cart ,order their products,cancel their orders and checkout to purchase.
  # Features
 - User registration and login for vendor side 
 - User registration and login for client side 
