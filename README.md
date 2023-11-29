@@ -16,6 +16,8 @@ It is a fully functional e-commerce website where users can browse products, add
 - vendor can view the shared review for that particular product with order and client details
 - vendor  can upload products to website  with details ,images ..so that clients can view  and order them
 -  vendor be able to edit the uploaded data if needs .
+-  user session secuirity/ privacy
+-  passwords are securely hashed, adding an extra layer of safeguarding sensitive user information 
 # Technologies Used
    - HTML
    - CSS
